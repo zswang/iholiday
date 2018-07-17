@@ -1,0 +1,29 @@
+{
+  "name": "iholiday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "spider": "ts-node scripts/spider"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zswang/iholiday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zswang/iholiday/issues"
+  },
+  "homepage": "https://github.com/zswang/iholiday#readme",
+  "devDependencies": {
+    "iconv-lite": "^0.4.23",
+    "irequest": "^0.1.0",
+    "js-yaml": "^3.12.0",
+    "moment": "^2.22.2",
+    "request": "^2.87.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
