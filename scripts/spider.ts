@@ -2,6 +2,8 @@
 
 import * as request from 'request'
 import * as iconv from 'iconv-lite'
+import * as moment from 'moment'
+import { Promise } from 'es6-promise'
 
 interface ISpiderData {
   status: '0' | string
@@ -22,20 +24,46 @@ interface ISpiderData {
   }[]
 }
 
-request(
-  `https://sp0.baidu.com/8aQDcjqpAAV3otqbppnN2DJv/api.php?query=${encodeURIComponent(
-    '2011年1月'
-  )}&resource_id=6018&ie=utf8&format=json`,
-  { encoding: null },
-  (err, res, body) => {
-    if (err) {
-      console.error(err)
+new Promise((resolve, reject) => {
+  const startyear = 2011
+  const endyear = moment().year()
+  let year = startyear - 1
+  let result: { [startday: string]: string } = {}
+  const next = () => {
+    if (year++ >= endyear) {
+      resolve(result)
       return
     }
-    let reply = JSON.parse(iconv.decode(body, 'gbk')) as ISpiderData
-    if (reply.status !== '0') {
-      return
-    }
-    console.log(JSON.stringify(reply.data[0].holidaylist, null, '  '))
+
+    request(
+      `https://sp0.baidu.com/8aQDcjqpAAV3otqbppnN2DJv/api.php?query=${encodeURIComponent(
+        `${year}年1月`
+      )}&resource_id=6018&ie=utf8&format=json`,
+      { encoding: null },
+      (err, res, body) => {
+        if (err) {
+          reject(err)
+          return
+        }
+        let reply = JSON.parse(iconv.decode(body, 'gbk')) as ISpiderData
+        if (reply.status !== '0') {
+          reject(reply.status)
+          return
+        }
+        if (reply.data[0].holidaylist) {
+          reply.data[0].holidaylist.forEach(item => {
+            result[item.startday] = item.name
+          })
+        }
+        next()
+      }
+    )
   }
-)
+  next()
+})
+  .then(reply => {
+    console.log(reply)
+  })
+  .catch(err => {
+    console.error(err)
+  })
