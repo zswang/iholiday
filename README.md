@@ -22,5 +22,5 @@ China holiday data
 
 MIT © [zswang](http://weibo.com/zswang)
 
-[npm-url]: https://npmjs.org/package/iholday
-[npm-image]: https://badge.fury.io/js/iholday.svg
+[npm-url]: https://npmjs.org/package/iholiday
+[npm-image]: https://badge.fury.io/js/iholiday.svg
