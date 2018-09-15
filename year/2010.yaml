@@ -1,0 +1,111 @@
+'2010-01-01':
+  note: 元旦
+  type: festival
+'2010-01-02':
+  note: 元旦・休
+  type: festival
+'2010-01-03':
+  note: 元旦・休
+  type: festival
+'2010-02-13':
+  note: 春节・休
+  type: workday
+'2010-02-14':
+  note: 春节
+  type: festival
+'2010-02-15':
+  note: 春节
+  type: festival
+'2010-02-16':
+  note: 春节・休
+  type: festival
+'2010-02-17':
+  note: 春节・休
+  type: festival
+'2010-02-18':
+  note: 春节・休
+  type: festival
+'2010-02-19':
+  note: 春节・休
+  type: festival
+'2010-02-20':
+  note: 春节・班
+  type: workday
+'2010-02-21':
+  note: 春节・班
+  type: workday
+'2010-04-03':
+  note: 清明节・休
+  type: festival
+'2010-04-04':
+  note: 清明节・休
+  type: festival
+'2010-04-05':
+  note: 清明节
+  type: festival
+'2010-05-01':
+  note: 劳动节
+  type: festival
+'2010-05-02':
+  note: 劳动节・休
+  type: festival
+'2010-05-03':
+  note: 劳动节・休
+  type: festival
+'2010-06-12':
+  note: 端午节・班
+  type: workday
+'2010-06-13':
+  note: 端午节・班
+  type: workday
+'2010-06-14':
+  note: 端午节・休
+  type: festival
+'2010-06-15':
+  note: 端午节・休
+  type: festival
+'2010-06-16':
+  note: 端午节
+  type: festival
+'2010-09-19':
+  note: 中秋节・班
+  type: workday
+'2010-09-22':
+  note: 中秋节
+  type: festival
+'2010-09-23':
+  note: 中秋节・休
+  type: festival
+'2010-09-24':
+  note: 中秋节・休
+  type: festival
+'2010-09-25':
+  note: 中秋节・班
+  type: workday
+'2010-09-26':
+  note: 国庆节・班
+  type: workday
+'2010-10-01':
+  note: 国庆节
+  type: festival
+'2010-10-02':
+  note: 国庆节・休
+  type: festival
+'2010-10-03':
+  note: 国庆节・休
+  type: festival
+'2010-10-04':
+  note: 国庆节・休
+  type: festival
+'2010-10-05':
+  note: 国庆节・休
+  type: festival
+'2010-10-06':
+  note: 国庆节・休
+  type: festival
+'2010-10-07':
+  note: 国庆节・休
+  type: festival
+'2010-10-09':
+  note: 国庆节・班
+  type: workday
