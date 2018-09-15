@@ -11,6 +11,7 @@ China holiday data
 ## 数据来源
 
 * 2011年-2018年 百度日历数据
+* 2006年 [国务院办公厅就2006年 部分节假日安排发出通知](http://www.gov.cn/jrzg/2005-12/22/content_133837.htm)
 * 2007年 [国务院办公厅关于2007年 部分节假日安排的通知](http://www.gov.cn/gongbao/content/2007/content_503397.htm)
 * 2008年 [国务院办公厅关于2008年 部分节假日安排的通知](http://www.gov.cn/gongbao/content/2008/content_859870.htm)
 * 2009年 [国务院办公厅关于2009年 部分节假日安排的通知](http://www.gov.cn/zwgk/2008-12/10/content_1174014.htm)
