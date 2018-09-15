@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/zswang/iholiday.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "zswang",
+    "url": "http://weibo.com/zswang"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zswang/iholiday/issues"
   },
