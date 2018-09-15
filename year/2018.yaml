@@ -1,0 +1,99 @@
+'2018-01-01':
+  note: 元旦
+  type: festival
+'2018-02-11':
+  note: 春节・班
+  type: workday
+'2018-02-15':
+  note: 春节・休
+  type: festival
+'2018-02-16':
+  note: 春节
+  type: festival
+'2018-02-17':
+  note: 春节・休
+  type: festival
+'2018-02-18':
+  note: 春节・休
+  type: festival
+'2018-02-19':
+  note: 春节・休
+  type: festival
+'2018-02-20':
+  note: 春节・休
+  type: festival
+'2018-02-21':
+  note: 春节・休
+  type: festival
+'2018-02-24':
+  note: 春节・班
+  type: workday
+'2018-04-05':
+  note: 清明节
+  type: festival
+'2018-04-06':
+  note: 清明节・休
+  type: festival
+'2018-04-07':
+  note: 清明节・休
+  type: festival
+'2018-04-08':
+  note: 清明节・班
+  type: workday
+'2018-04-28':
+  note: 劳动节・班
+  type: workday
+'2018-04-29':
+  note: 劳动节・休
+  type: festival
+'2018-04-30':
+  note: 劳动节・休
+  type: festival
+'2018-05-01':
+  note: 劳动节
+  type: festival
+'2018-06-16':
+  note: 端午节・休
+  type: festival
+'2018-06-17':
+  note: 端午节・休
+  type: festival
+'2018-06-18':
+  note: 端午节
+  type: festival
+'2018-09-22':
+  note: 中秋节・休
+  type: festival
+'2018-09-23':
+  note: 中秋节・休
+  type: festival
+'2018-09-24':
+  note: 中秋节
+  type: festival
+'2018-09-29':
+  note: 国庆节・班
+  type: workday
+'2018-09-30':
+  note: 国庆节・班
+  type: workday
+'2018-10-01':
+  note: 国庆节
+  type: festival
+'2018-10-02':
+  note: 国庆节・休
+  type: festival
+'2018-10-03':
+  note: 国庆节・休
+  type: festival
+'2018-10-04':
+  note: 国庆节・休
+  type: festival
+'2018-10-05':
+  note: 国庆节・休
+  type: festival
+'2018-10-06':
+  note: 国庆节・休
+  type: festival
+'2018-10-07':
+  note: 国庆节・休
+  type: festival

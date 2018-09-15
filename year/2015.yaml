@@ -1,0 +1,108 @@
+'2015-01-01':
+  note: 元旦
+  type: festival
+'2015-01-02':
+  note: 元旦・休
+  type: festival
+'2015-01-03':
+  note: 元旦・休
+  type: festival
+'2015-01-04':
+  note: 元旦・班
+  type: workday
+'2015-02-15':
+  note: 春节・班
+  type: workday
+'2015-02-18':
+  note: 春节・休
+  type: festival
+'2015-02-19':
+  note: 春节
+  type: festival
+'2015-02-20':
+  note: 春节・休
+  type: festival
+'2015-02-21':
+  note: 春节・休
+  type: festival
+'2015-02-22':
+  note: 春节・休
+  type: festival
+'2015-02-23':
+  note: 春节・休
+  type: festival
+'2015-02-24':
+  note: 春节・休
+  type: festival
+'2015-02-28':
+  note: 春节・班
+  type: workday
+'2015-04-04':
+  note: 清明节・休
+  type: festival
+'2015-04-05':
+  note: 清明节
+  type: festival
+'2015-04-06':
+  note: 清明节・休
+  type: festival
+'2015-05-01':
+  note: 劳动节
+  type: festival
+'2015-05-02':
+  note: 劳动节・休
+  type: festival
+'2015-05-03':
+  note: 劳动节・休
+  type: festival
+'2015-06-20':
+  note: 端午节
+  type: festival
+'2015-06-21':
+  note: 端午节・休
+  type: festival
+'2015-06-22':
+  note: 端午节・休
+  type: festival
+'2015-09-03':
+  note: 胜利日
+  type: festival
+'2015-09-04':
+  note: 胜利日・休
+  type: festival
+'2015-09-05':
+  note: 胜利日・休
+  type: festival
+'2015-09-06':
+  note: 胜利日・班
+  type: workday
+'2015-09-26':
+  note: 中秋节・休
+  type: festival
+'2015-09-27':
+  note: 中秋节
+  type: festival
+'2015-10-01':
+  note: 国庆节
+  type: festival
+'2015-10-02':
+  note: 国庆节・休
+  type: festival
+'2015-10-03':
+  note: 国庆节・休
+  type: festival
+'2015-10-04':
+  note: 国庆节・休
+  type: festival
+'2015-10-05':
+  note: 国庆节・休
+  type: festival
+'2015-10-06':
+  note: 国庆节・休
+  type: festival
+'2015-10-07':
+  note: 国庆节・休
+  type: festival
+'2015-10-10':
+  note: 国庆节・班
+  type: workday

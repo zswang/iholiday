@@ -1,0 +1,123 @@
+'2013-01-01':
+  note: 元旦
+  type: festival
+'2013-01-02':
+  note: 元旦・休
+  type: festival
+'2013-01-03':
+  note: 元旦・休
+  type: festival
+'2013-01-05':
+  note: 元旦・班
+  type: workday
+'2013-01-06':
+  note: 元旦・班
+  type: workday
+'2013-02-09':
+  note: 春节・休
+  type: festival
+'2013-02-10':
+  note: 春节
+  type: festival
+'2013-02-11':
+  note: 春节・休
+  type: festival
+'2013-02-12':
+  note: 春节・休
+  type: festival
+'2013-02-13':
+  note: 春节・休
+  type: festival
+'2013-02-14':
+  note: 春节・休
+  type: festival
+'2013-02-15':
+  note: 春节・休
+  type: festival
+'2013-02-16':
+  note: 春节・班
+  type: workday
+'2013-02-17':
+  note: 春节・班
+  type: workday
+'2013-04-04':
+  note: 清明节
+  type: festival
+'2013-04-05':
+  note: 清明节・休
+  type: festival
+'2013-04-06':
+  note: 清明节・休
+  type: festival
+'2013-04-07':
+  note: 清明节・班
+  type: workday
+'2013-04-27':
+  note: 劳动节・班
+  type: workday
+'2013-04-28':
+  note: 劳动节・班
+  type: workday
+'2013-04-29':
+  note: 劳动节・休
+  type: festival
+'2013-04-30':
+  note: 劳动节・休
+  type: festival
+'2013-05-01':
+  note: 劳动节
+  type: festival
+'2013-06-08':
+  note: 端午节・班
+  type: workday
+'2013-06-09':
+  note: 端午节・班
+  type: workday
+'2013-06-10':
+  note: 端午节・休
+  type: festival
+'2013-06-11':
+  note: 端午节・休
+  type: festival
+'2013-06-12':
+  note: 端午节
+  type: festival
+'2013-09-19':
+  note: 中秋节
+  type: festival
+'2013-09-20':
+  note: 中秋节・休
+  type: festival
+'2013-09-21':
+  note: 中秋节・休
+  type: festival
+'2013-09-22':
+  note: 中秋节・班
+  type: workday
+'2013-09-29':
+  note: 国庆节・班
+  type: workday
+'2013-10-01':
+  note: 国庆节
+  type: festival
+'2013-10-02':
+  note: 国庆节・休
+  type: festival
+'2013-10-03':
+  note: 国庆节・休
+  type: festival
+'2013-10-04':
+  note: 国庆节・休
+  type: festival
+'2013-10-05':
+  note: 国庆节・休
+  type: festival
+'2013-10-06':
+  note: 国庆节・休
+  type: festival
+'2013-10-07':
+  note: 国庆节・休
+  type: festival
+'2013-10-12':
+  note: 国庆节・班
+  type: workday

@@ -1,0 +1,99 @@
+'2017-01-01':
+  note: 元旦
+  type: festival
+'2017-01-02':
+  note: 元旦・休
+  type: festival
+'2017-01-22':
+  note: 春节・班
+  type: workday
+'2017-01-27':
+  note: 春节・休
+  type: festival
+'2017-01-28':
+  note: 春节
+  type: festival
+'2017-01-29':
+  note: 春节・休
+  type: festival
+'2017-01-30':
+  note: 春节・休
+  type: festival
+'2017-01-31':
+  note: 春节・休
+  type: festival
+'2017-02-01':
+  note: 春节・休
+  type: festival
+'2017-02-02':
+  note: 春节・休
+  type: festival
+'2017-02-04':
+  note: 春节・班
+  type: workday
+'2017-04-01':
+  note: 清明节・班
+  type: workday
+'2017-04-02':
+  note: 清明节・休
+  type: festival
+'2017-04-03':
+  note: 清明节・休
+  type: festival
+'2017-04-04':
+  note: 清明节
+  type: festival
+'2017-04-29':
+  note: 劳动节・休
+  type: festival
+'2017-04-30':
+  note: 劳动节・休
+  type: festival
+'2017-05-01':
+  note: 劳动节
+  type: festival
+'2017-05-27':
+  note: 端午节・班
+  type: workday
+'2017-05-28':
+  note: 端午节・休
+  type: festival
+'2017-05-29':
+  note: 端午节・休
+  type: festival
+'2017-05-30':
+  note: 端午节
+  type: festival
+'2017-09-30':
+  note: 中秋节・班
+  type: workday
+'2017-10-01':
+  note: 中秋节・休
+  type: festival
+'2017-10-02':
+  note: 中秋节・休
+  type: festival
+'2017-10-03':
+  note: 中秋节・休
+  type: festival
+'2017-10-04':
+  note: 中秋节
+  type: festival
+'2017-10-05':
+  note: 中秋节・休
+  type: festival
+'2017-10-06':
+  note: 中秋节・休
+  type: festival
+'2017-10-07':
+  note: 中秋节・休
+  type: festival
+'2017-10-08':
+  note: 中秋节・休
+  type: festival
+'2017-12-30':
+  note: 元旦・休
+  type: festival
+'2017-12-31':
+  note: 元旦・休
+  type: festival

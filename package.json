@@ -1,8 +1,8 @@
 {
   "name": "iholiday",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "China holiday data",
+  "main": "lib/days.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "spider": "ts-node scripts/spider"
@@ -18,13 +18,18 @@
   },
   "homepage": "https://github.com/zswang/iholiday#readme",
   "devDependencies": {
+    "@types/js-yaml": "^3.11.2",
+    "@types/node": "^10.9.4",
+    "es6-promise": "^4.2.4",
     "iconv-lite": "^0.4.23",
     "irequest": "^0.1.0",
     "js-yaml": "^3.12.0",
     "moment": "^2.22.2",
     "request": "^2.87.0",
     "ts-node": "^7.0.0",
-    "typescript": "^2.9.2",
-    "es6-promise": "^4.2.4"
-  }
+    "typescript": "^2.9.2"
+  },
+  "files": [
+    "lib"
+  ]
 }

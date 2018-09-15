@@ -1,0 +1,105 @@
+'2012-01-01':
+  note: 元旦
+  type: festival
+'2012-01-02':
+  note: 元旦・休
+  type: festival
+'2012-01-03':
+  note: 元旦・休
+  type: festival
+'2012-01-21':
+  note: 春节・班
+  type: workday
+'2012-01-22':
+  note: 春节・休
+  type: festival
+'2012-01-23':
+  note: 春节
+  type: festival
+'2012-01-24':
+  note: 春节・休
+  type: festival
+'2012-01-25':
+  note: 春节・休
+  type: festival
+'2012-01-26':
+  note: 春节・休
+  type: festival
+'2012-01-27':
+  note: 春节・休
+  type: festival
+'2012-01-28':
+  note: 春节・休
+  type: festival
+'2012-01-29':
+  note: 春节・班
+  type: workday
+'2012-03-31':
+  note: 清明节・班
+  type: workday
+'2012-04-01':
+  note: 清明节・班
+  type: workday
+'2012-04-02':
+  note: 清明节・休
+  type: festival
+'2012-04-03':
+  note: 清明节・休
+  type: festival
+'2012-04-04':
+  note: 清明节
+  type: festival
+'2012-04-28':
+  note: 劳动节・班
+  type: workday
+'2012-04-29':
+  note: 劳动节・休
+  type: festival
+'2012-04-30':
+  note: 劳动节・休
+  type: festival
+'2012-05-01':
+  note: 劳动节
+  type: festival
+'2012-05-02':
+  note: 劳动节・班
+  type: workday
+'2012-06-22':
+  note: 端午节・休
+  type: festival
+'2012-06-23':
+  note: 端午节
+  type: festival
+'2012-06-24':
+  note: 端午节・休
+  type: festival
+'2012-09-29':
+  note: 国庆节・班
+  type: workday
+'2012-09-30':
+  note: 国庆节・休
+  type: festival
+'2012-10-01':
+  note: 国庆节
+  type: festival
+'2012-10-02':
+  note: 国庆节・休
+  type: festival
+'2012-10-03':
+  note: 国庆节・休
+  type: festival
+'2012-10-04':
+  note: 国庆节・休
+  type: festival
+'2012-10-05':
+  note: 国庆节・休
+  type: festival
+'2012-10-06':
+  note: 国庆节・休
+  type: festival
+'2012-10-07':
+  note: 国庆节・休
+  type: festival
+'2012-10-08':
+  note: 国庆节・班
+  type: workday

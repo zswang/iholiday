@@ -1,0 +1,1130 @@
+{
+  "2011-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2011-01-02": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2011-01-03": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2011-01-30": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2011-02-02": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2011-02-03": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2011-02-04": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2011-02-05": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2011-02-06": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2011-02-07": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2011-02-08": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2011-02-12": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2011-04-02": {
+    "note": "清明节・班",
+    "type": "workday"
+  },
+  "2011-04-03": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2011-04-04": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2011-04-05": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2011-04-30": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2011-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2011-05-02": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2011-06-04": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2011-06-05": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2011-06-06": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2011-09-10": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2011-09-11": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2011-09-12": {
+    "note": "中秋节",
+    "type": "festival"
+  },
+  "2011-10-01": {
+    "note": "国庆节",
+    "type": "festival"
+  },
+  "2011-10-02": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2011-10-03": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2011-10-04": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2011-10-05": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2011-10-06": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2011-10-07": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2011-10-08": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2011-10-09": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2011-12-31": {
+    "note": "元旦・班",
+    "type": "workday"
+  },
+  "2012-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2012-01-02": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2012-01-03": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2012-01-21": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2012-01-22": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2012-01-23": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2012-01-24": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2012-01-25": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2012-01-26": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2012-01-27": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2012-01-28": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2012-01-29": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2012-03-31": {
+    "note": "清明节・班",
+    "type": "workday"
+  },
+  "2012-04-01": {
+    "note": "清明节・班",
+    "type": "workday"
+  },
+  "2012-04-02": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2012-04-03": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2012-04-04": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2012-04-28": {
+    "note": "劳动节・班",
+    "type": "workday"
+  },
+  "2012-04-29": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2012-04-30": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2012-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2012-05-02": {
+    "note": "劳动节・班",
+    "type": "workday"
+  },
+  "2012-06-22": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2012-06-23": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2012-06-24": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2012-09-29": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2012-09-30": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2012-10-01": {
+    "note": "国庆节",
+    "type": "festival"
+  },
+  "2012-10-02": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2012-10-03": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2012-10-04": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2012-10-05": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2012-10-06": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2012-10-07": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2012-10-08": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2013-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2013-01-02": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2013-01-03": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2013-01-05": {
+    "note": "元旦・班",
+    "type": "workday"
+  },
+  "2013-01-06": {
+    "note": "元旦・班",
+    "type": "workday"
+  },
+  "2013-02-09": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2013-02-10": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2013-02-11": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2013-02-12": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2013-02-13": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2013-02-14": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2013-02-15": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2013-02-16": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2013-02-17": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2013-04-04": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2013-04-05": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2013-04-06": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2013-04-07": {
+    "note": "清明节・班",
+    "type": "workday"
+  },
+  "2013-04-27": {
+    "note": "劳动节・班",
+    "type": "workday"
+  },
+  "2013-04-28": {
+    "note": "劳动节・班",
+    "type": "workday"
+  },
+  "2013-04-29": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2013-04-30": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2013-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2013-06-08": {
+    "note": "端午节・班",
+    "type": "workday"
+  },
+  "2013-06-09": {
+    "note": "端午节・班",
+    "type": "workday"
+  },
+  "2013-06-10": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2013-06-11": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2013-06-12": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2013-09-19": {
+    "note": "中秋节",
+    "type": "festival"
+  },
+  "2013-09-20": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2013-09-21": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2013-09-22": {
+    "note": "中秋节・班",
+    "type": "workday"
+  },
+  "2013-09-29": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2013-10-01": {
+    "note": "国庆节",
+    "type": "festival"
+  },
+  "2013-10-02": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2013-10-03": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2013-10-04": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2013-10-05": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2013-10-06": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2013-10-07": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2013-10-12": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2014-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2014-01-26": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2014-01-30": {
+    "note": "除夕",
+    "type": "festival"
+  },
+  "2014-01-31": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2014-02-01": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2014-02-02": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2014-02-03": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2014-02-04": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2014-02-05": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2014-02-06": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2014-02-08": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2014-04-05": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2014-04-06": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2014-04-07": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2014-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2014-05-02": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2014-05-03": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2014-05-04": {
+    "note": "劳动节・班",
+    "type": "workday"
+  },
+  "2014-05-31": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2014-06-01": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2014-06-02": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2014-09-06": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2014-09-07": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2014-09-08": {
+    "note": "中秋节",
+    "type": "festival"
+  },
+  "2014-09-28": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2014-10-01": {
+    "note": "国庆节",
+    "type": "festival"
+  },
+  "2014-10-02": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2014-10-03": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2014-10-04": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2014-10-05": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2014-10-06": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2014-10-07": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2014-10-11": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2015-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2015-01-02": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2015-01-03": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2015-01-04": {
+    "note": "元旦・班",
+    "type": "workday"
+  },
+  "2015-02-15": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2015-02-18": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2015-02-19": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2015-02-20": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2015-02-21": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2015-02-22": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2015-02-23": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2015-02-24": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2015-02-28": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2015-04-04": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2015-04-05": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2015-04-06": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2015-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2015-05-02": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2015-05-03": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2015-06-20": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2015-06-21": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2015-06-22": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2015-09-03": {
+    "note": "胜利日",
+    "type": "festival"
+  },
+  "2015-09-04": {
+    "note": "胜利日・休",
+    "type": "festival"
+  },
+  "2015-09-05": {
+    "note": "胜利日・休",
+    "type": "festival"
+  },
+  "2015-09-06": {
+    "note": "胜利日・班",
+    "type": "workday"
+  },
+  "2015-09-26": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2015-09-27": {
+    "note": "中秋节",
+    "type": "festival"
+  },
+  "2015-10-01": {
+    "note": "国庆节",
+    "type": "festival"
+  },
+  "2015-10-02": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2015-10-03": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2015-10-04": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2015-10-05": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2015-10-06": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2015-10-07": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2015-10-10": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2016-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2016-01-02": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2016-01-03": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2016-02-06": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2016-02-07": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2016-02-08": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2016-02-09": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2016-02-10": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2016-02-11": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2016-02-12": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2016-02-13": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2016-02-14": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2016-04-02": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2016-04-03": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2016-04-04": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2016-04-30": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2016-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2016-05-02": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2016-06-09": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2016-06-10": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2016-06-11": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2016-06-12": {
+    "note": "端午节・班",
+    "type": "workday"
+  },
+  "2016-09-15": {
+    "note": "中秋节",
+    "type": "festival"
+  },
+  "2016-09-16": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2016-09-17": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2016-09-18": {
+    "note": "中秋节・班",
+    "type": "workday"
+  },
+  "2016-10-01": {
+    "note": "国庆节",
+    "type": "festival"
+  },
+  "2016-10-02": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2016-10-03": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2016-10-04": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2016-10-05": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2016-10-06": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2016-10-07": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2016-10-08": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2016-10-09": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2016-12-31": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2017-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2017-01-02": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2017-01-22": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2017-01-27": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2017-01-28": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2017-01-29": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2017-01-30": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2017-01-31": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2017-02-01": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2017-02-02": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2017-02-04": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2017-04-01": {
+    "note": "清明节・班",
+    "type": "workday"
+  },
+  "2017-04-02": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2017-04-03": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2017-04-04": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2017-04-29": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2017-04-30": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2017-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2017-05-27": {
+    "note": "端午节・班",
+    "type": "workday"
+  },
+  "2017-05-28": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2017-05-29": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2017-05-30": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2017-09-30": {
+    "note": "中秋节・班",
+    "type": "workday"
+  },
+  "2017-10-01": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2017-10-02": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2017-10-03": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2017-10-04": {
+    "note": "中秋节",
+    "type": "festival"
+  },
+  "2017-10-05": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2017-10-06": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2017-10-07": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2017-10-08": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2017-12-30": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2017-12-31": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2018-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2018-02-11": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2018-02-15": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2018-02-16": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2018-02-17": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2018-02-18": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2018-02-19": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2018-02-20": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2018-02-21": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2018-02-24": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2018-04-05": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2018-04-06": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2018-04-07": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2018-04-08": {
+    "note": "清明节・班",
+    "type": "workday"
+  },
+  "2018-04-28": {
+    "note": "劳动节・班",
+    "type": "workday"
+  },
+  "2018-04-29": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2018-04-30": {
+    "note": "劳动节・休",
+    "type": "festival"
+  },
+  "2018-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2018-06-16": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2018-06-17": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2018-06-18": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2018-09-22": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2018-09-23": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2018-09-24": {
+    "note": "中秋节",
+    "type": "festival"
+  },
+  "2018-09-29": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2018-09-30": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2018-10-01": {
+    "note": "国庆节",
+    "type": "festival"
+  },
+  "2018-10-02": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2018-10-03": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2018-10-04": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2018-10-05": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2018-10-06": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2018-10-07": {
+    "note": "国庆节・休",
+    "type": "festival"
+  }
+}
