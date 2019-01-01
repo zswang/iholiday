@@ -28,7 +28,7 @@ interface ISpiderData {
 }
 
 new Promise((resolve, reject) => {
-  const startyear = 2011
+  const startyear = 2018
   const endyear = moment().year() + 1
   let year = startyear - 1
   let result: { [startday: string]: string } = {}
@@ -138,7 +138,7 @@ new Promise((resolve, reject) => {
       years[y][key] = reply[key]
     })
 
-    fs.writeFileSync(`./lib/days.json`, JSON.stringify(days, null, '  '))
+    fs.writeFileSync(`./lib/days2.json`, JSON.stringify(days, null, '  '))
     Object.keys(years).forEach(key => {
       fs.writeFileSync(`./year/${key}.yaml`, yaml.safeDump(years[key]))
     })

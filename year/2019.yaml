@@ -1,108 +1,87 @@
-'2018-01-01':
+'2019-01-01':
   note: 元旦
   type: festival
-'2018-02-11':
+'2019-02-02':
   note: 春节・班
   type: workday
-'2018-02-15':
+'2019-02-03':
+  note: 春节・班
+  type: workday
+'2019-02-04':
   note: 春节・休
   type: festival
-'2018-02-16':
+'2019-02-05':
   note: 春节
   type: festival
-'2018-02-17':
+'2019-02-06':
   note: 春节・休
   type: festival
-'2018-02-18':
+'2019-02-07':
   note: 春节・休
   type: festival
-'2018-02-19':
+'2019-02-08':
   note: 春节・休
   type: festival
-'2018-02-20':
+'2019-02-09':
   note: 春节・休
   type: festival
-'2018-02-21':
+'2019-02-10':
   note: 春节・休
   type: festival
-'2018-02-24':
-  note: 春节・班
-  type: workday
-'2018-04-05':
+'2019-04-05':
   note: 清明节
   type: festival
-'2018-04-06':
+'2019-04-06':
   note: 清明节・休
   type: festival
-'2018-04-07':
+'2019-04-07':
   note: 清明节・休
   type: festival
-'2018-04-08':
-  note: 清明节・班
-  type: workday
-'2018-04-28':
-  note: 劳动节・班
-  type: workday
-'2018-04-29':
-  note: 劳动节・休
-  type: festival
-'2018-04-30':
-  note: 劳动节・休
-  type: festival
-'2018-05-01':
+'2019-05-01':
   note: 劳动节
   type: festival
-'2018-06-16':
-  note: 端午节・休
-  type: festival
-'2018-06-17':
-  note: 端午节・休
-  type: festival
-'2018-06-18':
+'2019-06-07':
   note: 端午节
   type: festival
-'2018-09-22':
-  note: 中秋节・休
+'2019-06-08':
+  note: 端午节・休
   type: festival
-'2018-09-23':
-  note: 中秋节・休
+'2019-06-09':
+  note: 端午节・休
   type: festival
-'2018-09-24':
+'2019-09-13':
   note: 中秋节
   type: festival
-'2018-09-29':
+'2019-09-14':
+  note: 中秋节・休
+  type: festival
+'2019-09-15':
+  note: 中秋节・休
+  type: festival
+'2019-09-29':
   note: 国庆节・班
   type: workday
-'2018-09-30':
-  note: 国庆节・班
-  type: workday
-'2018-10-01':
+'2019-10-01':
   note: 国庆节
   type: festival
-'2018-10-02':
+'2019-10-02':
   note: 国庆节・休
   type: festival
-'2018-10-03':
+'2019-10-03':
   note: 国庆节・休
   type: festival
-'2018-10-04':
+'2019-10-04':
   note: 国庆节・休
   type: festival
-'2018-10-05':
+'2019-10-05':
   note: 国庆节・休
   type: festival
-'2018-10-06':
+'2019-10-06':
   note: 国庆节・休
   type: festival
-'2018-10-07':
+'2019-10-07':
   note: 国庆节・休
   type: festival
-'2018-12-29':
-  note: 元旦・班
+'2019-10-12':
+  note: 国庆节・班
   type: workday
-'2018-12-30':
-  note: 元旦・休
-  type: festival
-'2018-12-31':
-  note: 元旦・休
-  type: festival

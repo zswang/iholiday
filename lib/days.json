@@ -1126,5 +1126,133 @@
   "2018-10-07": {
     "note": "国庆节・休",
     "type": "festival"
+  },
+  "2018-12-29": {
+    "note": "元旦・班",
+    "type": "workday"
+  },
+  "2018-12-30": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2018-12-31": {
+    "note": "元旦・休",
+    "type": "festival"
+  },
+  "2019-01-01": {
+    "note": "元旦",
+    "type": "festival"
+  },
+  "2019-02-02": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2019-02-03": {
+    "note": "春节・班",
+    "type": "workday"
+  },
+  "2019-02-04": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2019-02-05": {
+    "note": "春节",
+    "type": "festival"
+  },
+  "2019-02-06": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2019-02-07": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2019-02-08": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2019-02-09": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2019-02-10": {
+    "note": "春节・休",
+    "type": "festival"
+  },
+  "2019-04-05": {
+    "note": "清明节",
+    "type": "festival"
+  },
+  "2019-04-06": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2019-04-07": {
+    "note": "清明节・休",
+    "type": "festival"
+  },
+  "2019-05-01": {
+    "note": "劳动节",
+    "type": "festival"
+  },
+  "2019-06-07": {
+    "note": "端午节",
+    "type": "festival"
+  },
+  "2019-06-08": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2019-06-09": {
+    "note": "端午节・休",
+    "type": "festival"
+  },
+  "2019-09-13": {
+    "note": "中秋节",
+    "type": "festival"
+  },
+  "2019-09-14": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2019-09-15": {
+    "note": "中秋节・休",
+    "type": "festival"
+  },
+  "2019-09-29": {
+    "note": "国庆节・班",
+    "type": "workday"
+  },
+  "2019-10-01": {
+    "note": "国庆节",
+    "type": "festival"
+  },
+  "2019-10-02": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2019-10-03": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2019-10-04": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2019-10-05": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2019-10-06": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2019-10-07": {
+    "note": "国庆节・休",
+    "type": "festival"
+  },
+  "2019-10-12": {
+    "note": "国庆节・班",
+    "type": "workday"
   }
 }
